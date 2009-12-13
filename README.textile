@@ -23,3 +23,5 @@ h2. Modified version by Edward Patel
 * Added a php script to receive and store reportfiles on the computer. Please read in upload_appsales.php for more information.
 * Merged ktakayama Totals additions
 * Merged jonkean translation additions 
+
+* This merge has been merged into jonkean so I will stop merging
